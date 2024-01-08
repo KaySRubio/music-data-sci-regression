@@ -42,13 +42,13 @@ Takeaways
   - Model agreed that Niris by Nicky Cook is super danceable with a score of 0.832 (actual 0.949)
 
 ## Dataset Citation: 
-title = FMA: A Dataset for Music Analysis
-author = Defferrard, Michael and Benzi, Kirell and Vandergheynst, Pierre and Bresson, Xavier
-booktitle = 18th International Society for Music Information Retrieval Conference (ISMIR)
-year = 2017
-archiveprefix = arXiv
-eprint = 1612.01840
-[url](https://arxiv.org/abs/1612.01840)
+  - title = FMA: A Dataset for Music Analysis
+  - author = Defferrard, Michael and Benzi, Kirell and Vandergheynst, Pierre and Bresson, Xavier
+  - booktitle = 18th International Society for Music Information Retrieval Conference (ISMIR)
+  - year = 2017
+  - archiveprefix = arXiv
+  - eprint = 1612.01840
+  - [url](https://arxiv.org/abs/1612.01840)
 
   
   
