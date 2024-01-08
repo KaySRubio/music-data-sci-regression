@@ -17,7 +17,7 @@ Metadata on 13,000 songs from EchoNest (now Spotify), a subset of the [Free Musi
 }
 
 ## Results
-| Syntax      | Description |
+| Model      | Best Hyperparameters| Best mean accuracy score*
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Gradient Boosting      | max_depth: 3, n_estimators: 500       | 0.0666
+| Random Forest Regressor   | max_depth: 20, n_estimators: 100        | 0.0773
